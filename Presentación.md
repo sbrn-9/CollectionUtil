@@ -1,5 +1,13 @@
 # CollectionUtil 🔗
 
+## Integrantes
+- Arévalo Sabrina
+- Caneva Ezequiel
+
+## Introducción
+
+En el presente repositorio se busca presentar el uso de la clase CollectionUtil, la cual se nos fue entregada como tema principal de busqueda y para mostrar su funcionamiento, junto con los métodos que esta contiene, por medio de diversas pruebas.
+
 ## Concepto 
 - CollectionUtil es una clase heredada de objet. 
 - Función es crear colecciones que omitan las mayúsculas y las minúsculas en las cadenas. 
