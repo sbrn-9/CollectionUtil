@@ -75,7 +75,7 @@ namespace CalcWinform1
                 lista.Add(b);
             }
 
-            //Creación de los botones
+            //CreaciÃ³n de los botones
 
             var bAdd = new Button();
             bAdd.Text = botones["SumAr"].ToString(); //Muestra el valor Suma
@@ -112,7 +112,12 @@ namespace CalcWinform1
 
         private void btnRemover_Click(object sender, EventArgs e)
         {
-            //encontrar la forma de remover
+            if (lista.Count != 0)
+            {
+
+                lista.Remove(lista.ElementAt(0));
+                panelCalc.Controls.RemoveAt(0);
+            }
    
 
         }
