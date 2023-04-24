@@ -1,0 +1,5 @@
+C:\UTNProgramas\Repo del profe\src\Calc\CalcApp1\obj\Debug\net7.0\CalcApp1.csproj.AssemblyReference.cache
+C:\UTNProgramas\Repo del profe\src\Calc\CalcApp1\obj\Debug\net7.0\CalcApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTNProgramas\Repo del profe\src\Calc\CalcApp1\obj\Debug\net7.0\CalcApp1.AssemblyInfoInputs.cache
+C:\UTNProgramas\Repo del profe\src\Calc\CalcApp1\obj\Debug\net7.0\CalcApp1.AssemblyInfo.cs
+C:\UTNProgramas\Repo del profe\src\Calc\CalcApp1\obj\Debug\net7.0\CalcApp1.csproj.CoreCompileInputs.cache

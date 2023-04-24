@@ -1,0 +1,12 @@
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\bin\Debug\net7.0\Calc.Core.Interfaces.deps.json
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\bin\Debug\net7.0\Calc.Core.Interfaces.dll
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\bin\Debug\net7.0\Calc.Core.Interfaces.pdb
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\obj\Debug\net7.0\Calc.Core.Interfaces.csproj.AssemblyReference.cache
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\obj\Debug\net7.0\Calc.Core.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\obj\Debug\net7.0\Calc.Core.Interfaces.AssemblyInfoInputs.cache
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\obj\Debug\net7.0\Calc.Core.Interfaces.AssemblyInfo.cs
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\obj\Debug\net7.0\Calc.Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\obj\Debug\net7.0\Calc.Core.Interfaces.dll
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\obj\Debug\net7.0\refint\Calc.Core.Interfaces.dll
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\obj\Debug\net7.0\Calc.Core.Interfaces.pdb
+C:\UTNProgramas\Repo del profe\src\Calc\Calc.Core.Interfaces\obj\Debug\net7.0\ref\Calc.Core.Interfaces.dll
