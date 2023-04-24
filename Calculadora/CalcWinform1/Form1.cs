@@ -61,7 +61,7 @@ namespace CalcWinform1
             botones["Division"] = "Dividir";
             botones["Multiplicacion"] = "Multiplicar";
 
-            var lista = new List<Button>();
+            lista = new List<Button>();
 
             for (int i = 0; i <= 10; i++)
             {
